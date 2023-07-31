@@ -1,0 +1,40 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="{% static 'main.css' %}" rel="stylesheet" type="text/css">
+    <title>Captura Web</title>
+</head>
+<body>
+    <header class="titulo">
+        <h1>CAPTURA DE IMAGENES DE CEDULAS</h1>
+    </header>
+
+    <div class="canvas-camera">
+      <select id="cameraDropdown"></select>
+        <video id="webCam"   autoplay ></video>
+        <canvas id="canvas"></canvas>
+    </div>
+     
+    <div class="botones">
+        {% csrf_token %}
+        <button onClick="tomarFoto()">CAPTURAR</button>
+        <button onClick="saveFrontImage()">GUARDAR FOTO </button>
+        <button download onClick="deletePhoto()">BORRAR</button>
+    </div>
+
+</body>
+<script src="{% static 'main.js' %}"></script>
+<script type="text/javascript" src="https://unpkg.com/webcam-easy/dist/webcam-easy.min.js"></script>
+<script src="https://webrtc.github.io/adapter/adapter-latest.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    const webcam = new Webcam(webCamElement, "environment", canvasElement);
+    webcam.start();
+</script>
+
+</html>
+
+

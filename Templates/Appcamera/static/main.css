@@ -1,0 +1,52 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header.titulo {
+    background-color: rgb(212, 38, 38);
+    padding: 10px;
+}
+
+header.titulo h1 {
+    margin: 0;
+}
+
+h1 {
+color: #fff5f5;
+}
+
+
+#buttons {
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: rgb(212, 38, 38);
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff0000;
+}
+
+video {
+    max-width: 640px;
+    margin: 10px;
+}
+
+img {
+    max-width: 300px;
+    margin: 10px;
+}
+
+#webCam {
+transform: scaleX(-1) rotateY(180deg);
+} 
