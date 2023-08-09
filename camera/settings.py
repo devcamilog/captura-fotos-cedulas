@@ -134,7 +134,7 @@ CORS_ALLOW_ALL_ORIGINS = False
 
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:8000",
-    '*'
+    'http://3.86.206.69:8000'
     # Otros orígenes permitidos si los tienes
 ]
 
