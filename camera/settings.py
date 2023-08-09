@@ -134,7 +134,8 @@ CORS_ALLOW_ALL_ORIGINS = False
 
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:8000",
-    'http://3.86.206.69:8000'
+    "http://3.86.206.69:8000",
+    "http://fotos.apostar.com.co"
     # Otros orígenes permitidos si los tienes
 ]
 
@@ -153,3 +154,7 @@ CORS_ALLOW_HEADERS = [
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+SESSION_COOKIE_SECURE = True
+
+CSRF_COOKIE_SECURE = True
