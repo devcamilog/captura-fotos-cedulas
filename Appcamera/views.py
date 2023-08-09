@@ -11,7 +11,7 @@ from django.utils import timezone
 # Create your views here.
 
 def inicio(request):
-    return render(request, 'Appcamera/index.html')
+    return render(request, 'Appcamera/index.ht')
 
 @csrf_exempt
 def guardar_imagen(request):
