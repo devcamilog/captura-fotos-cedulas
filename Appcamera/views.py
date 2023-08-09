@@ -1,4 +1,4 @@
-from django.shortcuts import render, redirect
+from django.shortcuts import render, redirect 
 from django.http import HttpResponse, JsonResponse, HttpResponseForbidden
 from django.template import Template, Context, RequestContext
 from .models import Cedulas
@@ -9,8 +9,16 @@ import os
 from django.utils import timezone
 
 # Create your views here.
+
 def inicio(request):
-    return render(request, 'Appcamera/index.html')
+    plantillaInicio = open("C:/Users/Apostar/Desktop/CAMERA_PROJECT/camera/templates/Appcamera/index.html")
+    template = Template(plantillaInicio.read())
+    plantillaInicio.close()
+    contexto = Context()
+    documento = template.render(contexto)
+    return HttpResponse(documento)
+
+
 @csrf_exempt
 def guardar_imagen(request):
     if request.method == 'POST' and 'image' in request.FILES and 'cedula' in request.POST:
