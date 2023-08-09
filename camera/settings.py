@@ -124,7 +124,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = ['/home/ubuntu/captura-fotos-cedulas/camera/Templates/Appcamera/static']
+STATICFILES_DIRS = ['C:/Users/Apostar/Desktop/CAMERA_PROJECT/camera/Templates/Appcamera/static']
 
 MEDIA_ROOT = '\\\\172.20.0.112\\Public\\FotosPV\\'
 MEDIA_URL = '/media/'
