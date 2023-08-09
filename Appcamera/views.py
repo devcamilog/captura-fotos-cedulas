@@ -10,14 +10,7 @@ from django.utils import timezone
 
 # Create your views here.
 def inicio(request):
-    plantillaInicio = open("C:/Users/Apostar/Desktop/CAMERA_PROJECT/camera/templates/Appcamera/index.html")
-    template = Template(plantillaInicio.read())
-    plantillaInicio.close()
-    contexto = Context()
-    documento = template.render(contexto)
-    return HttpResponse(documento)
-
-
+    return render(request, 'Appcamera/index.html')
 @csrf_exempt
 def guardar_imagen(request):
     if request.method == 'POST' and 'image' in request.FILES and 'cedula' in request.POST:
