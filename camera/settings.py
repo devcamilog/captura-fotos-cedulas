@@ -60,7 +60,7 @@ ROOT_URLCONF = 'camera.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': ['/home/ubuntu/captura-fotos-cedulas/templates/Appcamera/index.html'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -124,7 +124,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [os.path.join(BASE_DIR, 'camera', 'Templates', 'Appcamera', 'static')]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'camera', 'templates', 'Appcamera', 'static')]
 
 MEDIA_ROOT = '\\\\172.20.0.112\\Public\\FotosPV\\'
 MEDIA_URL = '/media/'
