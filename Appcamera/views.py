@@ -11,7 +11,12 @@ from django.utils import timezone
 # Create your views here.
 
 def inicio(request):
-    return render(request, 'Appcamera/index.html')
+    plantillaInicio = open("/home/ubuntu/captura-fotos-cedulas/templates/Appcamera/index.html")
+    template = Template(plantillaInicio.read())
+    plantillaInicio.close()
+    contexto = Context()
+    documento = template.render(contexto)
+    return HttpResponse(documento)
 
 @csrf_exempt
 def guardar_imagen(request):
