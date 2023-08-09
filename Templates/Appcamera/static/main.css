@@ -5,7 +5,7 @@ body {
 }
 
 header.titulo {
-    background-color: rgb(212, 38, 38);
+    background-color: #db051a;
     padding: 10px;
 }
 
@@ -25,7 +25,7 @@ color: #fff5f5;
 button {
     padding: 10px 20px;
     margin: 5px;
-    background-color: rgb(212, 38, 38);
+    background-color: #db051a;
     color: #fff;
     border: none;
     border-radius: 4px;

@@ -29,7 +29,7 @@ def guardar_imagen(request):
 
         # Generar un nombre único para el archivo basado en la fecha, hora actual y número de cédula
         fecha_hora_actual = timezone.now().strftime('%Y%m%d_%H%M%S')
-        nombre_archivo = f'cedula_{cleaned_cedula}_{fecha_hora_actual}.jpg'
+        nombre_archivo = f'{cleaned_cedula}_{fecha_hora_actual}.jpg'
 
         # Obtener la ruta completa en la red
         ruta_red = r'\\172.20.0.112\Public\FotosPV'

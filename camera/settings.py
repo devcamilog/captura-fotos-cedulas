@@ -25,7 +25,8 @@ SECRET_KEY = 'u)cy)*vrcoi-w57g***p@jm%u#q=dpz*93q1@x_&ue=s_(40sy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.http://fotos.apostar.com.co/', '3.86.206.69']
+
 
 
 # Application definition
