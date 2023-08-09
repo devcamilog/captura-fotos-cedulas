@@ -25,7 +25,7 @@ SECRET_KEY = 'u)cy)*vrcoi-w57g***p@jm%u#q=dpz*93q1@x_&ue=s_(40sy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.http://fotos.apostar.com.co/', '3.86.206.69']
+ALLOWED_HOSTS = ['fotos.apostar.com.co/', '3.86.206.69',]
 
 
 
@@ -124,7 +124,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = ['C:/Users/Apostar/Desktop/CAMERA_PROJECT/camera/Templates/Appcamera/static']
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'camera', 'Templates', 'Appcamera', 'static')]
 
 MEDIA_ROOT = '\\\\172.20.0.112\\Public\\FotosPV\\'
 MEDIA_URL = '/media/'
