@@ -50,7 +50,6 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'corsheaders.middleware.CorsMiddleware',
-    'django.middleware.common.CommonMiddleware',
     
 ]
 
@@ -133,7 +132,7 @@ CORS_ALLOW_ALL_ORIGINS = False
 
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:8000",
-    "http://3.86.206.69:8000",
+    "http://54.209.202.216:8000",
     "http://fotos.apostar.com.co"
     # Otros orígenes permitidos si los tienes
 ]
