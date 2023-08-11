@@ -122,7 +122,8 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [os.path.join(BASE_DIR,'templates', 'Appcamera', 'static')]
+#STATICFILES_DIRS = [os.path.join(BASE_DIR,'templates', 'Appcamera', 'static')]
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles/')
 
 MEDIA_ROOT = '\\\\172.20.0.112\\Public\\FotosPV\\'
 MEDIA_URL = '/media/'
