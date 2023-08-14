@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'u)cy)*vrcoi-w57g***p@jm%u#q=dpz*93q1@x_&ue=s_(40sy'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
 ALLOWED_HOSTS = ['54.209.202.216']
@@ -124,7 +124,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR,'templates', 'Appcamera', 'static')]
 
-MEDIA_ROOT = '\\\\172.20.0.112\\Public\\FotosPV\\'
+MEDIA_ROOT = '//172.20.0.112/Public/FotosPV/'
 MEDIA_URL = '/media/'
 
 
