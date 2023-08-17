@@ -667,3 +667,297 @@
 [2023-08-15 14:11:06 -0500] [10382] [DEBUG] POST /guardar_imagen/
 [2023-08-15 14:11:06 -0500] [10383] [DEBUG] POST /guardar_imagen/
 [2023-08-15 14:11:08 -0500] [10382] [DEBUG] GET /
+[2023-08-15 14:29:20 -0500] [10382] [DEBUG] GET /
+[2023-08-15 14:43:29 -0500] [10383] [DEBUG] GET /.env
+[2023-08-15 14:43:29 -0500] [10384] [DEBUG] POST /
+[2023-08-15 15:50:13 -0500] [10385] [DEBUG] GET /
+[2023-08-15 15:50:21 -0500] [10382] [DEBUG] GET /cf_scripts/scripts/ajax/ckeditor/ckeditor.js
+[2023-08-15 16:08:56 -0500] [10382] [DEBUG] GET /
+[2023-08-15 16:21:22 -0500] [10384] [DEBUG] GET /ab2g
+[2023-08-15 16:21:23 -0500] [10383] [DEBUG] GET /ab2h
+[2023-08-15 16:21:25 -0500] [10385] [DEBUG] GET /
+[2023-08-15 16:21:25 -0500] [10384] [DEBUG] GET /t4
+[2023-08-15 16:21:26 -0500] [10385] [DEBUG] GET /favicon.ico
+[2023-08-15 16:21:26 -0500] [10386] [DEBUG] GET /
+[2023-08-15 16:28:31 -0500] [10386] [DEBUG] GET /robots.txt
+[2023-08-15 16:28:48 -0500] [10382] [DEBUG] GET /
+[2023-08-15 16:31:09 -0500] [10382] [DEBUG] GET /.env
+[2023-08-15 16:31:09 -0500] [10383] [DEBUG] POST /
+[2023-08-15 18:02:24 -0500] [10386] [DEBUG] GET /
+[2023-08-15 18:09:48 -0500] [10384] [DEBUG] POST /
+[2023-08-15 18:33:27 -0500] [10384] [DEBUG] GET /
+[2023-08-15 18:53:31 -0500] [10384] [DEBUG] GET /
+[2023-08-15 19:03:31 -0500] [10386] [DEBUG] GET /
+[2023-08-15 19:55:24 -0500] [10385] [DEBUG] GET /.env
+[2023-08-15 20:24:34 -0500] [10386] [DEBUG] GET /.env
+[2023-08-15 20:24:34 -0500] [10384] [DEBUG] POST /
+[2023-08-15 20:28:28 -0500] [10382] [DEBUG] GET /
+[2023-08-15 20:39:26 -0500] [10384] [DEBUG] GET /
+[2023-08-15 20:39:49 -0500] [10386] [DEBUG] GET /dns-query
+[2023-08-15 20:40:33 -0500] [10382] [DEBUG] GET /
+[2023-08-15 20:44:13 -0500] [10383] [DEBUG] GET /geoserver/web/
+[2023-08-15 20:45:40 -0500] [10386] [DEBUG] GET /.git/config
+[2023-08-15 22:02:10 -0500] [10382] [DEBUG] GET /.env
+[2023-08-15 22:02:11 -0500] [10383] [DEBUG] POST /
+[2023-08-15 23:13:41 -0500] [10385] [DEBUG] GET /favicon.ico
+[2023-08-15 23:13:58 -0500] [10384] [DEBUG] GET /favicon.ico
+[2023-08-15 23:14:10 -0500] [10385] [DEBUG] GET /manage/account/login
+[2023-08-15 23:14:34 -0500] [10384] [DEBUG] GET /manage/account/login
+[2023-08-15 23:14:54 -0500] [10382] [DEBUG] GET /admin/index.html
+[2023-08-15 23:15:17 -0500] [10384] [DEBUG] GET /admin/index.html
+[2023-08-15 23:15:37 -0500] [10385] [DEBUG] GET /index.html
+[2023-08-15 23:16:01 -0500] [10384] [DEBUG] GET /index.html
+[2023-08-15 23:16:25 -0500] [10383] [DEBUG] GET /+CSCOE+/logon.html
+[2023-08-15 23:16:48 -0500] [10382] [DEBUG] GET /+CSCOE+/logon.html
+[2023-08-15 23:16:57 -0500] [10386] [DEBUG] GET /
+[2023-08-15 23:16:57 -0500] [10383] [DEBUG] GET /
+[2023-08-15 23:17:08 -0500] [10386] [DEBUG] GET /cgi-bin/login.cgi
+[2023-08-15 23:17:30 -0500] [10385] [DEBUG] GET /cgi-bin/login.cgi
+[2023-08-15 23:17:49 -0500] [10383] [DEBUG] GET /
+[2023-08-15 23:18:22 -0500] [10382] [DEBUG] GET /
+[2023-08-15 23:27:00 -0500] [10386] [DEBUG] GET /
+[2023-08-15 23:56:32 -0500] [10382] [DEBUG] GET /
+[2023-08-16 00:16:34 -0500] [10383] [DEBUG] GET /.env
+[2023-08-16 00:16:34 -0500] [10385] [DEBUG] POST /
+[2023-08-16 00:23:28 -0500] [10384] [DEBUG] GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+[2023-08-16 02:41:00 -0500] [10385] [DEBUG] GET /.env
+[2023-08-16 02:41:00 -0500] [10383] [DEBUG] POST /
+[2023-08-16 04:11:11 -0500] [10383] [DEBUG] GET /
+[2023-08-16 04:11:11 -0500] [10384] [DEBUG] GET /
+[2023-08-16 05:30:27 -0500] [10385] [DEBUG] GET /ab2g
+[2023-08-16 05:30:28 -0500] [10382] [DEBUG] GET /ab2h
+[2023-08-16 05:30:31 -0500] [10385] [DEBUG] GET /
+[2023-08-16 05:30:31 -0500] [10384] [DEBUG] GET /t4
+[2023-08-16 05:30:32 -0500] [10386] [DEBUG] GET /favicon.ico
+[2023-08-16 05:30:32 -0500] [10385] [DEBUG] GET /
+[2023-08-16 05:33:14 -0500] [10385] [DEBUG] GET /
+[2023-08-16 05:33:14 -0500] [10383] [DEBUG] GET /favicon.ico
+[2023-08-16 06:17:29 -0500] [10386] [DEBUG] GET /
+[2023-08-16 06:17:51 -0500] [10383] [DEBUG] GET /favicon.ico
+[2023-08-16 06:17:55 -0500] [10382] [DEBUG] GET /robots.txt
+[2023-08-16 06:17:58 -0500] [10383] [DEBUG] GET /sitemap.xml
+[2023-08-16 06:29:45 -0500] [10383] [DEBUG] GET /php.php
+[2023-08-16 06:29:46 -0500] [10386] [DEBUG] GET /phpinfo.php
+[2023-08-16 06:29:46 -0500] [10384] [DEBUG] GET /info.php
+[2023-08-16 06:29:46 -0500] [10383] [DEBUG] GET /infophp.php
+[2023-08-16 06:29:47 -0500] [10384] [DEBUG] GET /php_info.php
+[2023-08-16 06:29:47 -0500] [10383] [DEBUG] GET /test.php
+[2023-08-16 06:29:47 -0500] [10385] [DEBUG] GET /i.php
+[2023-08-16 06:29:47 -0500] [10383] [DEBUG] GET /asdf.php
+[2023-08-16 06:29:48 -0500] [10385] [DEBUG] GET /pinfo.php
+[2023-08-16 06:29:48 -0500] [10383] [DEBUG] GET /phpversion.php
+[2023-08-16 06:29:48 -0500] [10385] [DEBUG] GET /time.php
+[2023-08-16 06:29:49 -0500] [10383] [DEBUG] GET /index.php
+[2023-08-16 06:29:49 -0500] [10385] [DEBUG] GET /temp.php
+[2023-08-16 06:29:49 -0500] [10383] [DEBUG] GET /old_phpinfo.php
+[2023-08-16 06:29:49 -0500] [10385] [DEBUG] GET /infos.php
+[2023-08-16 06:29:50 -0500] [10383] [DEBUG] GET /linusadmin-phpinfo.php
+[2023-08-16 06:29:50 -0500] [10385] [DEBUG] GET /php-info.php
+[2023-08-16 06:29:50 -0500] [10383] [DEBUG] GET /dashboard/phpinfo.php
+[2023-08-16 06:29:51 -0500] [10385] [DEBUG] GET /_profiler/phpinfo.php
+[2023-08-16 06:29:51 -0500] [10383] [DEBUG] GET /_profiler/phpinfo
+[2023-08-16 06:29:51 -0500] [10386] [DEBUG] GET /
+[2023-08-16 07:07:27 -0500] [10382] [DEBUG] GET /
+[2023-08-16 07:37:42 -0500] [10383] [DEBUG] GET /.env
+[2023-08-16 07:37:42 -0500] [10385] [DEBUG] POST /
+[2023-08-16 07:56:30 -0500] [10383] [DEBUG] GET /
+[2023-08-16 13:27:17 +0000] [10374] [INFO] Handling signal: term
+[2023-08-16 08:27:17 -0500] [10382] [INFO] Worker exiting (pid: 10382)
+[2023-08-16 08:27:17 -0500] [10383] [INFO] Worker exiting (pid: 10383)
+[2023-08-16 08:27:17 -0500] [10384] [INFO] Worker exiting (pid: 10384)
+[2023-08-16 08:27:17 -0500] [10385] [INFO] Worker exiting (pid: 10385)
+[2023-08-16 08:27:17 -0500] [10386] [INFO] Worker exiting (pid: 10386)
+[2023-08-16 13:27:17 +0000] [10374] [INFO] Shutting down: Master
+[2023-08-16 13:28:06 +0000] [629] [DEBUG] Current configuration:
+  config: ./gunicorn.conf.py
+  wsgi_app: None
+  bind: ['unix:/tmp/gunicorn-camara.sock']
+  backlog: 2048
+  workers: 5
+  worker_class: sync
+  threads: 1
+  worker_connections: 1000
+  max_requests: 0
+  max_requests_jitter: 0
+  timeout: 30
+  graceful_timeout: 30
+  keepalive: 2
+  limit_request_line: 4094
+  limit_request_fields: 100
+  limit_request_field_size: 8190
+  reload: False
+  reload_engine: auto
+  reload_extra_files: []
+  spew: False
+  check_config: False
+  print_config: False
+  preload_app: False
+  sendfile: None
+  reuse_port: False
+  chdir: /home/ubuntu/captura-fotos-cedulas
+  daemon: False
+  raw_env: []
+  pidfile: None
+  worker_tmp_dir: None
+  user: 1000
+  group: 1000
+  umask: 0
+  initgroups: False
+  tmp_upload_dir: None
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-PROTO': 'https', 'X-FORWARDED-SSL': 'on'}
+  forwarded_allow_ips: ['127.0.0.1']
+  accesslog: None
+  disable_redirect_access_to_syslog: False
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  errorlog: /home/ubuntu/captura-fotos-cedulas/logs/gunicorn.log
+  loglevel: debug
+  capture_output: False
+  logger_class: gunicorn.glogging.Logger
+  logconfig: None
+  logconfig_dict: {}
+  logconfig_json: None
+  syslog_addr: udp://localhost:514
+  syslog: False
+  syslog_prefix: None
+  syslog_facility: user
+  enable_stdio_inheritance: False
+  statsd_host: None
+  dogstatsd_tags: 
+  statsd_prefix: 
+  proc_name: camara
+  default_proc_name: camera.wsgi:application
+  pythonpath: None
+  paste: None
+  on_starting: <function OnStarting.on_starting at 0x7f2755567e20>
+  on_reload: <function OnReload.on_reload at 0x7f2755567f40>
+  when_ready: <function WhenReady.when_ready at 0x7f27555840d0>
+  pre_fork: <function Prefork.pre_fork at 0x7f27555841f0>
+  post_fork: <function Postfork.post_fork at 0x7f2755584310>
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x7f2755584430>
+  worker_int: <function WorkerInt.worker_int at 0x7f2755584550>
+  worker_abort: <function WorkerAbort.worker_abort at 0x7f2755584670>
+  pre_exec: <function PreExec.pre_exec at 0x7f2755584790>
+  pre_request: <function PreRequest.pre_request at 0x7f27555848b0>
+  post_request: <function PostRequest.post_request at 0x7f2755584940>
+  child_exit: <function ChildExit.child_exit at 0x7f2755584a60>
+  worker_exit: <function WorkerExit.worker_exit at 0x7f2755584b80>
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x7f2755584ca0>
+  on_exit: <function OnExit.on_exit at 0x7f2755584dc0>
+  ssl_context: <function NewSSLContext.ssl_context at 0x7f2755584ee0>
+  proxy_protocol: False
+  proxy_allow_ips: ['127.0.0.1']
+  keyfile: None
+  certfile: None
+  ssl_version: 2
+  cert_reqs: 0
+  ca_certs: None
+  suppress_ragged_eofs: True
+  do_handshake_on_connect: False
+  ciphers: None
+  raw_paste_global_conf: []
+  strip_header_spaces: False
+[2023-08-16 13:28:06 +0000] [629] [INFO] Starting gunicorn 21.2.0
+[2023-08-16 13:28:06 +0000] [629] [DEBUG] Arbiter booted
+[2023-08-16 13:28:06 +0000] [629] [INFO] Listening at: unix:/tmp/gunicorn-camara.sock (629)
+[2023-08-16 13:28:06 +0000] [629] [INFO] Using worker: sync
+[2023-08-16 13:28:06 +0000] [657] [INFO] Booting worker with pid: 657
+[2023-08-16 13:28:06 +0000] [658] [INFO] Booting worker with pid: 658
+[2023-08-16 13:28:06 +0000] [659] [INFO] Booting worker with pid: 659
+[2023-08-16 13:28:06 +0000] [660] [INFO] Booting worker with pid: 660
+[2023-08-16 13:28:06 +0000] [661] [INFO] Booting worker with pid: 661
+[2023-08-16 13:28:06 +0000] [629] [DEBUG] 5 workers
+[2023-08-16 08:53:12 -0500] [657] [DEBUG] GET /.env
+[2023-08-16 08:53:13 -0500] [661] [DEBUG] POST /
+[2023-08-16 09:23:33 -0500] [661] [DEBUG] GET /owa/auth/x.js
+[2023-08-16 09:44:26 -0500] [661] [DEBUG] GET /_profiler/phpinfo
+[2023-08-16 09:44:28 -0500] [657] [DEBUG] GET /yuuki
+[2023-08-16 09:44:29 -0500] [661] [DEBUG] GET /.env
+[2023-08-16 09:44:31 -0500] [658] [DEBUG] POST /
+[2023-08-16 11:18:37 -0500] [661] [DEBUG] GET /ab2g
+[2023-08-16 11:18:38 -0500] [658] [DEBUG] GET /ab2h
+[2023-08-16 11:18:40 -0500] [660] [DEBUG] GET /
+[2023-08-16 11:18:41 -0500] [658] [DEBUG] GET /t4
+[2023-08-16 11:43:15 -0500] [658] [DEBUG] GET /
+[2023-08-16 11:57:06 -0500] [658] [DEBUG] GET /.env
+[2023-08-16 11:57:06 -0500] [659] [DEBUG] POST /
+[2023-08-16 12:06:32 -0500] [657] [DEBUG] GET /
+[2023-08-16 12:38:55 -0500] [658] [DEBUG] GET /
+[2023-08-16 12:38:56 -0500] [659] [DEBUG] GET /favicon.ico
+[2023-08-16 12:39:05 -0500] [660] [DEBUG] GET /
+[2023-08-16 12:39:21 -0500] [657] [DEBUG] POST /guardar_imagen/
+[2023-08-16 12:39:27 -0500] [660] [DEBUG] POST /guardar_imagen/
+[2023-08-16 12:54:41 -0500] [657] [DEBUG] GET /
+[2023-08-16 12:54:43 -0500] [659] [DEBUG] GET /favicon.ico
+[2023-08-16 13:55:41 -0500] [659] [DEBUG] GET /autodiscover/autodiscover.json
+[2023-08-16 13:55:53 -0500] [660] [DEBUG] GET /
+[2023-08-16 13:55:53 -0500] [661] [DEBUG] GET /favicon.ico
+[2023-08-16 13:55:54 -0500] [657] [DEBUG] GET /favicon.ico
+[2023-08-16 14:27:45 -0500] [659] [DEBUG] GET /.env
+[2023-08-16 14:27:46 -0500] [657] [DEBUG] POST /
+[2023-08-16 14:35:40 -0500] [658] [DEBUG] GET /
+[2023-08-16 15:52:53 -0500] [657] [DEBUG] GET /
+[2023-08-16 16:51:42 -0500] [659] [DEBUG] POST /
+[2023-08-16 17:08:29 -0500] [657] [DEBUG] GET /ab2g
+[2023-08-16 17:08:29 -0500] [659] [DEBUG] GET /ab2h
+[2023-08-16 17:08:31 -0500] [657] [DEBUG] GET /
+[2023-08-16 17:08:32 -0500] [659] [DEBUG] GET /t4
+[2023-08-16 17:08:33 -0500] [657] [DEBUG] GET /favicon.ico
+[2023-08-16 17:08:33 -0500] [660] [DEBUG] GET /
+[2023-08-16 17:17:29 -0500] [658] [DEBUG] GET /
+[2023-08-16 18:19:15 -0500] [661] [DEBUG] GET /.env
+[2023-08-16 18:50:28 -0500] [658] [DEBUG] GET /ajax.php
+[2023-08-16 19:26:55 -0500] [661] [DEBUG] GET /.env
+[2023-08-16 19:26:55 -0500] [659] [DEBUG] POST /
+[2023-08-16 20:34:04 -0500] [657] [DEBUG] GET /
+[2023-08-16 20:34:05 -0500] [658] [DEBUG] GET /
+[2023-08-16 20:36:35 -0500] [658] [DEBUG] GET /.env
+[2023-08-16 20:36:36 -0500] [657] [DEBUG] POST /
+[2023-08-16 20:53:45 -0500] [657] [DEBUG] GET /
+[2023-08-16 21:11:33 -0500] [657] [DEBUG] GET /_profiler/phpinfo
+[2023-08-16 22:26:16 -0500] [658] [DEBUG] GET /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+[2023-08-16 22:27:14 -0500] [660] [DEBUG] GET /php.php
+[2023-08-16 22:27:14 -0500] [657] [DEBUG] GET /phpinfo.php
+[2023-08-16 22:27:15 -0500] [660] [DEBUG] GET /info.php
+[2023-08-16 22:27:15 -0500] [657] [DEBUG] GET /infophp.php
+[2023-08-16 22:27:15 -0500] [660] [DEBUG] GET /php_info.php
+[2023-08-16 22:27:16 -0500] [657] [DEBUG] GET /test.php
+[2023-08-16 22:27:16 -0500] [660] [DEBUG] GET /i.php
+[2023-08-16 22:27:16 -0500] [658] [DEBUG] GET /asdf.php
+[2023-08-16 22:27:16 -0500] [660] [DEBUG] GET /pinfo.php
+[2023-08-16 22:27:17 -0500] [658] [DEBUG] GET /phpversion.php
+[2023-08-16 22:27:17 -0500] [660] [DEBUG] GET /time.php
+[2023-08-16 22:27:17 -0500] [658] [DEBUG] GET /index.php
+[2023-08-16 22:27:18 -0500] [660] [DEBUG] GET /temp.php
+[2023-08-16 22:27:18 -0500] [658] [DEBUG] GET /old_phpinfo.php
+[2023-08-16 22:27:18 -0500] [660] [DEBUG] GET /infos.php
+[2023-08-16 22:27:18 -0500] [658] [DEBUG] GET /linusadmin-phpinfo.php
+[2023-08-16 22:27:19 -0500] [660] [DEBUG] GET /php-info.php
+[2023-08-16 22:27:19 -0500] [658] [DEBUG] GET /dashboard/phpinfo.php
+[2023-08-16 22:27:19 -0500] [659] [DEBUG] GET /_profiler/phpinfo.php
+[2023-08-16 22:27:20 -0500] [660] [DEBUG] GET /_profiler/phpinfo
+[2023-08-16 22:27:20 -0500] [661] [DEBUG] GET /
+[2023-08-16 23:08:07 -0500] [657] [DEBUG] GET /
+[2023-08-16 23:35:05 -0500] [661] [DEBUG] GET /.env
+[2023-08-16 23:35:06 -0500] [657] [DEBUG] POST /
+[2023-08-16 23:54:56 -0500] [659] [DEBUG] GET /
+[2023-08-16 23:54:56 -0500] [660] [DEBUG] GET /
+[2023-08-17 02:08:59 -0500] [660] [DEBUG] GET /
+[2023-08-17 03:26:08 -0500] [660] [DEBUG] GET /.env
+[2023-08-17 03:26:08 -0500] [657] [DEBUG] POST /
+[2023-08-17 04:21:56 -0500] [661] [DEBUG] GET /
+[2023-08-17 05:01:36 -0500] [657] [DEBUG] GET /.env
+[2023-08-17 05:01:36 -0500] [659] [DEBUG] POST /
+[2023-08-17 07:04:36 -0500] [658] [DEBUG] GET /.env
+[2023-08-17 07:04:37 -0500] [660] [DEBUG] POST /
+[2023-08-17 07:12:56 -0500] [660] [DEBUG] GET /
+[2023-08-17 07:12:57 -0500] [658] [DEBUG] GET /favicon.ico
+[2023-08-17 07:24:17 -0500] [659] [DEBUG] GET /owa/auth/x.js
+[2023-08-17 08:35:37 -0500] [657] [DEBUG] GET /
+[2023-08-17 08:50:05 -0500] [658] [DEBUG] GET /
+[2023-08-17 08:52:37 -0500] [658] [DEBUG] GET /
+[2023-08-17 08:52:41 -0500] [657] [DEBUG] POST /guardar_imagen/
+[2023-08-17 08:52:48 -0500] [661] [DEBUG] POST /guardar_imagen/
+[2023-08-17 08:55:47 -0500] [657] [DEBUG] GET /
+[2023-08-17 08:56:01 -0500] [659] [DEBUG] POST /guardar_imagen/
+[2023-08-17 08:56:05 -0500] [658] [DEBUG] POST /guardar_imagen/
+[2023-08-17 08:56:22 -0500] [661] [DEBUG] GET /guardar_imagen/

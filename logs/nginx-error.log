@@ -58,3 +58,15 @@
 2023/08/15 06:06:05 [error] 11305#11305: *363 open() "/home/ubuntu/captura-fotos-cedulas/staticfiles/admin//javascript/hetong.js" failed (2: No such file or directory), client: 47.88.94.159, server: fotos.apostar.com.co, request: "GET /static/admin/javascript/hetong.js HTTP/1.1", host: "fotos.apostar.com.co"
 2023/08/15 13:07:21 [crit] 11305#11305: *434 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 212.102.40.218, server: 0.0.0.0:443
 2023/08/15 16:14:51 [crit] 11305#11305: *498 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 152.32.221.190, server: 0.0.0.0:443
+2023/08/15 21:21:24 [crit] 11305#11305: *626 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 178.128.40.176, server: 0.0.0.0:443
+2023/08/15 23:58:31 [crit] 11305#11305: *702 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 87.236.176.81, server: 0.0.0.0:443
+2023/08/16 01:08:34 [crit] 11305#11305: *722 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 212.102.40.218, server: 0.0.0.0:443
+2023/08/16 01:34:29 [crit] 11305#11305: *743 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 216.218.206.68, server: 0.0.0.0:443
+2023/08/16 03:10:07 [crit] 11305#11305: *779 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 167.172.240.54, server: 0.0.0.0:443
+2023/08/16 10:30:30 [crit] 11305#11305: *922 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 64.225.40.122, server: 0.0.0.0:443
+2023/08/16 11:18:13 [crit] 11305#11305: *962 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 123.254.109.234, server: 0.0.0.0:443
+2023/08/16 12:56:32 [crit] 11305#11305: *1037 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 174.138.5.230, server: 0.0.0.0:443
+2023/08/16 16:18:40 [crit] 2244#2244: *57 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 167.71.65.175, server: 0.0.0.0:443
+2023/08/16 22:08:31 [crit] 2244#2244: *166 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 178.128.15.154, server: 0.0.0.0:443
+2023/08/17 01:02:52 [crit] 2244#2244: *230 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 104.131.144.21, server: 0.0.0.0:443
+2023/08/17 07:09:03 [crit] 2244#2244: *404 SSL_do_handshake() failed (SSL: error:0A00006C:SSL routines::bad key share) while SSL handshaking, client: 157.245.99.72, server: 0.0.0.0:443
