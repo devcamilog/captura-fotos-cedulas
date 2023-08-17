@@ -27,7 +27,7 @@ def guardar_imagen(request):
         nombre_archivo = f'{cleaned_cedula}_{fecha_hora_actual}.jpg'
 
         # Obtener la ruta completa en la red
-        ruta_red = r'\\54.209.202.216\fotos-apostar'
+        ruta_red = r'/home/ubuntu/fotos-apostar'
         ruta_completa = os.path.join(ruta_red, nombre_archivo)
 
         try:

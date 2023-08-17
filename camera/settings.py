@@ -125,7 +125,7 @@ STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR,'static')]
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles/')
 
-MEDIA_ROOT = '/home/ubuntu/fotos-apostar'
+MEDIA_ROOT = '\\54.209.202.216\fotos-apostar'
 MEDIA_URL = '/media/'
 
 
